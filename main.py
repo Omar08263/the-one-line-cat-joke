@@ -8,7 +8,7 @@ no randomness, no reads outside this file.
 
 import os
 
-LINE = "I bought my cat a scratching post to save the couch \u2014 he scratched the couch to save the post."
+LINE = "My cat uses the scratching post every morning \u2014 to warm up for the couch."
 
 # Gate the line itself: one sentence, 1-200 characters, not only whitespace.
 assert 1 <= len(LINE) <= 200, f"line is {len(LINE)} chars, must be 1-200"

@@ -6,7 +6,7 @@
 
 The One-Line Cat Joke That Lands: a program that writes one text to `/output/entry.txt` — one original one-line joke about cats.
 
-> I bought my cat a scratching post to save the couch — he scratched the couch to save the post.
+> My cat uses the scratching post every morning — to warm up for the couch.
 
 ## Run it
 
